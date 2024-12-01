@@ -19,7 +19,7 @@
 
 <script>
 import AddUserButton from "./components/AddUserButton.vue";
-import UsersListTable from "./components/UsersListTable.vue";
+import UsersListTable from "./components/UsersListTable/App.vue";
 import AddUserDialog from "./components/AddUserDialog.vue";
 
 export default {

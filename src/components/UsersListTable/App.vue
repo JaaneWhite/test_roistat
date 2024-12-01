@@ -19,7 +19,7 @@
 <script>
 
 
-import UsersListTableContent from "./UsersListTableContent.vue";
+import UsersListTableContent from "./Content.vue";
 
 export default {
   name: "UsersListTable",
